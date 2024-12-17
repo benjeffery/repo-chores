@@ -1,0 +1,7 @@
+github_token: ghp_**************
+source_org: tskit-dev
+fork_org: benjeffery
+branch_name: update-actions-2412
+work_dir: work
+pr_title: Update actions versions
+tool: update-actions
